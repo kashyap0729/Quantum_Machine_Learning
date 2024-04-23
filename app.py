@@ -239,6 +239,7 @@ def main():
         st.header('Contact Me')
         st.write("""Email: mamidipalli.r@northeastern.edu""")
         st.write("""LinkedIn: [kashyapmrc](https://www.linkedin.com/in/kashyapmrc)""")
+        st.write("""Github: [kashyap0729](https://github.com/kashyap0729)""")
         st.write("""Portfolio: [Portfolio](https://kashyap0729.github.io/portfolio)
         """)
 
